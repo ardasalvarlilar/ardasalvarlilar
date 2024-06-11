@@ -3,7 +3,7 @@
   <h3 align="center">A passionate Full-Stack developer from Türkiye</h3>
 
   # 💫 About Me:
-🌱 I’m currently learning React<br>💬 Ask me about javaScript<br>📫 How to reach me arda4salvar7@gmail.com<br>⚡ Fun fact also i am a professional basketball player 
+🌱 I’m currently learning React<br>💬 Ask me about javaScript<br>📫 How to reach me arda4salvar7@gmail.com<br>⚡ Fun fact also i used to a professional basketball player 
 
 
 ## 🌐 Socials:
